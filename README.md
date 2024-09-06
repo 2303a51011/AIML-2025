@@ -15,9 +15,9 @@ Repository for student projects and assignments
 
 # Lab Code Notebooks
 1. [Lab 01](https://github.com/kirankumareranki/AIML-2025/blob/main/Lab01-AIML.ipynb)
-2. [Lab 02]()
-3. [Lab 03]()
-4. [Lab 04]()
+2. [Lab 02]():
+3. [Lab 03](https://github.com/2303a51011/AIML-2025/blob/main/LAB_Assignment_03.ipynb):
+4. [Lab 04]():
 5. [Lab 05]()
 6. [Lab 06]()
 7. [Lab 07]()
