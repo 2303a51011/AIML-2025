@@ -21,7 +21,7 @@ Repository for student projects and assignments
 5. [Lab 05](https://github.com/2303a51011/AIML-2025/blob/main/LAB3.ipynb):
 6. [Lab 06](https://github.com/2303a51011/AIML-2025/blob/main/LAB_6AIML.ipynb):
 7. [Lab 07](https://github.com/2303a51011/AIML-2025/blob/main/LAB%207):
-8. [Lab 08]()
+8. [Lab 08](https://github.com/2303a51011/AIML-2025/blob/main/LAB-08):
 9. [Lab 09]()
 10. [Lab 10]()
     
